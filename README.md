@@ -1,4 +1,4 @@
-#Sobre o jogo!
+# Sobre o jogo!
 
 • O Personagem pula (e cai) apenas na direção Y e se move apenas na direção X.
 • Plataformas são atravessáveis.
