@@ -1,7 +1,5 @@
 # Sobre o jogo!
 
-• O Personagem pula (e cai) apenas na direção Y e se move apenas na direção X.
-• Plataformas são atravessáveis.
-• Tom deve chegar até a placa quadrada.
-
-Melhorias no código são bem vindas!
+â€¢ O Personagem pula (e cai) apenas na direÃ§Ã£o Y e se move apenas na direÃ§Ã£o X.
+â€¢ Plataformas sÃ£o atravessÃ¡veis.
+â€¢ Tom deve chegar atÃ© a placa quadrada.
